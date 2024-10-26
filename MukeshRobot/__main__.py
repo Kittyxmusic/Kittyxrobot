@@ -91,7 +91,7 @@ buttons = [
       ],    
    [
         InlineKeyboardButton(text="❄ Owner ❄", callback_data="advance_help"),
-        InlineKeyboardButton(text="🎄 Update 🎄", url=f"t.me/kittyxupdates"),
+        InlineKeyboardButton(text="🎄 Update 🎄", url=f"https://t.me/GOKUxMODZ"),
       ],    
 
 ]
@@ -388,10 +388,10 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="⭐ Support ⭐", url=f"https://t.me/+vhymK8YMHA5iNTU9"
+                            text="⭐ Support ⭐", url=f"https://t.me/GOKUxENGINE"
                         ),
                         InlineKeyboardButton(
-                            text="🥀 Update 🥀", url=f"t.me/kittyxupdates"
+                            text="🥀 Update 🥀", url=f"https://t.me/GOKUxMODZ"
                         ),
                     ],
                     [
@@ -399,7 +399,7 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                             text="👩‍💻 Developer 👩‍💻", callback_data="advance_help"
                         ),
                         InlineKeyboardButton(
-                            text="💡 Study 💡", url="https://t.me/PWM_discussion"
+                            text="💡 Study 💡", url="t.me/kittyxupdates"
                         ),
                     ],
                     [
@@ -498,8 +498,8 @@ I am created with love by my [🇲σ᭡፝֟ɳ🌙](https://t.me/About_ur_Moonsh
             reply_markup=InlineKeyboardMarkup(
                [
                     [
-                        InlineKeyboardButton(text="🇲σ᭡፝֟ɳ🌙", url=f"https://t.me/About_ur_Moonshining/5"),
-                        InlineKeyboardButton(text="Owner's clan 🎄", url=f"https://t.me/+vhymK8YMHA5iNTU9") 
+                        InlineKeyboardButton(text="🇲σ᭡፝֟ɳ🌙", url=f"https://t.me/GOKUxEDITION"),
+                        InlineKeyboardButton(text="Owner's clan 🎄", url=f"https://t.me/+IsjiSfqtenw3MjRl") 
                     ],                    
                     [
                         InlineKeyboardButton(text="🎄 Galaxy 🎄", callback_data="moon_"),
@@ -529,12 +529,12 @@ For more info about Meowsteric updates check website 🎄👀""",parse_mode=Pars
             reply_markup=InlineKeyboardMarkup(
                [
                     [
-                        InlineKeyboardButton(text="⭐ Support ⭐", url=f"https://t.me/+vhymK8YMHA5iNTU9"),
-                        InlineKeyboardButton(text="🥀 Updates 🥀", url=f"t.me/kittyxupdates")
+                        InlineKeyboardButton(text="⭐ Support ⭐", url=f"https://t.me/GOKUxENGINE"),
+                        InlineKeyboardButton(text="🥀 Updates 🥀", url=f"https://t.me/GOKUxMODZ")
                     ],                    
                     [
                         InlineKeyboardButton(text="👩‍💻 Developer 👩‍💻", callback_data="advance_help"),
-                        InlineKeyboardButton(text="💡 Github 💡", url="https://t.me/pwmbothub") 
+                        InlineKeyboardButton(text="💡 Github 💡", url="https://t.me/+IsjiSfqtenw3MjRl") 
                     ],
                     [InlineKeyboardButton(text="• Back •", callback_data="mukesh_"),]
                ]
@@ -552,7 +552,7 @@ Your small amount can help us and meowsteric to grow more ✨""",parse_mode=Pars
             reply_markup=InlineKeyboardMarkup(
                 [ 
                     [
-                        InlineKeyboardButton(text="• Donate •", url="https://t.me/kittyxupdates"),InlineKeyboardButton(text="• Support •", callback_data="mukesh_support")
+                        InlineKeyboardButton(text="• Donate •", url="https://t.me/GOKUxMODZ"),InlineKeyboardButton(text="• Support •", callback_data="mukesh_support")
                     ]
                 ]
             ),
@@ -572,10 +572,10 @@ For more info about meowsteric updates check support 🎄👀
                 [
                     [
                         InlineKeyboardButton(
-                            text="Study 🥂", url=f"https://t.me/PWM_discussion"
+                            text="Study 🥂", url=f"https://t.me/+IsjiSfqtenw3MjRl"
                         ),
                         InlineKeyboardButton(
-                            text="Meowsteric updates🥀", url=f"t.me/kittyxupdates"
+                            text="Meowsteric updates🥀", url=f"https://t.me/GOKUxMODZ"
                         ),
                     ],
                     [
@@ -583,7 +583,7 @@ For more info about meowsteric updates check support 🎄👀
                             text="Developer 👨‍💻", callback_data="advance_help"
                         ),
                         InlineKeyboardButton(
-                            text="Share ur query💡", url="https://t.me/pwmbothub"
+                            text="Share ur query💡", url="https://t.me/+IsjiSfqtenw3MjRl"
                         ),
                     ],
                     [
